@@ -1,7 +1,2 @@
 1024 hello git!
 #include <stdio.h>
-int main()
-{
-	return 0;
-}
-
